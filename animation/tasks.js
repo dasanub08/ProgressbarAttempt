@@ -1,7 +1,7 @@
 var ProgressBars = [];
 var isAnimating = false;
 
-//REFACTOR ALL THIS CRAP! :D
+
 function animate() {
     var props = {};
     props.width = '200px';
