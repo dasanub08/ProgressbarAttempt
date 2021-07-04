@@ -1,7 +1,7 @@
 var ProgressBars = [];
 var isAnimating = false;
 
-
+//Recursive call to animate function at each click asynchronously
 function animate() {
     var props = {};
     props.width = '200px';
